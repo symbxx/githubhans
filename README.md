@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub 汉化插件
 
 > 给像我这样英文渣渣同学的福利。
@@ -94,3 +95,7 @@
 
 [license-url]: https://opensource.org/licenses/MIT
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg
+=======
+# githubhans
+GitHub中文插件
+>>>>>>> 42013c281581fb27f7ed67ad010e73e9bb15ebff
