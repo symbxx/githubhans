@@ -93,4 +93,3 @@
 [forks-image]: https://img.shields.io/github/forks/52cik/github-hans.svg
 
 [license-url]: https://opensource.org/licenses/MIT
-[license-image]: https://img.shields.io/badge/license-MIT-blue.svg
